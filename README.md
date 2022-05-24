@@ -1,15 +1,22 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+Directions in education:
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚙️ Backend development
+- 🌃 Frontend devepopment
+- 🧮 Data Sciense (DS)
+- 🤖 Machine Learning (ML)
+- 💬 Telegram Bots
+- 🐴 My organization: IT-Trojan
 
+Language:
+- 🐍 Python
+- 🐸 HTML/CSS/JS
+- 🐉 C++
+
+My contact:
+- Telegram: https://t.me/dread_horse
+- Linkedin: https://www.linkedin.com/in/daniillogachov/
+- Twitter: https://twitter.com/horse_dread
  
