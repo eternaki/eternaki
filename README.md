@@ -16,7 +16,7 @@ Language:
 - 🐉 C++
 
 My contact:
-- Telegram: https://t.me/dread_horse
-- Linkedin: https://www.linkedin.com/in/daniillogachov/
-- Twitter: https://twitter.com/horse_dread
+- 🔒 Telegram: https://t.me/dread_horse
+- 👔 Linkedin: https://www.linkedin.com/in/daniillogachov/
+- 📪 Twitter: https://twitter.com/horse_dread
  
