@@ -8,7 +8,7 @@ Directions in education:
 - 🧮 Data Sciense (DS)
 - 🤖 Machine Learning (ML)
 - 💬 Telegram Bots
-- 🐴 My organization: IT-Trojan
+- 🐴 My organization: IT-Trojan, will be coming soon...
 
 Language:
 - 🐍 Python
