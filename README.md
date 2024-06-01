@@ -8,15 +8,14 @@ Directions in education:
 - 🧮 Data Sciense (DS)
 - 🤖 Machine Learning (ML)
 - 💬 Telegram Bots
-- 🐴 My organization: IT-Trojan, will be coming soon...
+- 🐴 My organization: ETERNITY, will be coming soon...
 
 Language:
 - 🐍 Python
-- 🐸 HTML/CSS/JS
+- 🐸 HTML/CSS/JS (TypeScript, React)
 - 🐉 C++
 
 My contact:
-- 🔒 Telegram: https://t.me/dread_horse
+- 🔒 Telegram: https://t.me/eternaki
 - 👔 Linkedin: https://www.linkedin.com/in/daniillogachov/
-- 📪 Twitter: https://twitter.com/horse_dread
  
