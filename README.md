@@ -7,13 +7,19 @@ Directions in education:
 - 🌃 Frontend devepopment
 - 🧮 Data Sciense (DS)
 - 🤖 Machine Learning (ML)
+- ⛓️‍💥 Blockchain Technology
+- 🌍 Web3.0 Developing 
 - 💬 Telegram Bots
-- 🐴 My organization: ETERNITY, will be coming soon...
+- 🤐 My organization: ETERNITY, will be coming soon...
 
 Language:
+- 🐍 Backend: Django, Flask, NodeJS
+- 🐸 Frontend: HTML/CSS/JS (TypeScript, React, NextJS)
+- ⛓️‍💥 Blockchain: Solidity
+- 🐉 C++/C/C#
 - 🐍 Python
-- 🐸 HTML/CSS/JS (TypeScript, React)
-- 🐉 C++
+- 🐧 GO
+
 
 My contact:
 - 🔒 Telegram: https://t.me/eternaki
